@@ -1,6 +1,6 @@
 # RiskLens Architecture
 
-*Copyright (c) 2024 AR Singh. All Rights Reserved.*
+*Copyright (c) 2026 AR Singh. All Rights Reserved.*
 
 ## System Layers
 

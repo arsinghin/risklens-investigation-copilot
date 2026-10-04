@@ -221,7 +221,7 @@ The application uses `st.connection("snowflake")` for embedded identity. No cred
 
 ## License
 
-Copyright (c) 2024 AR Singh. All Rights Reserved. See [LICENSE](LICENSE) for details.
+Copyright (c) 2026 AR Singh. All Rights Reserved. See [LICENSE](LICENSE) for details.
 
 ---
 
