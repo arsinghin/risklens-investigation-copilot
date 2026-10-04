@@ -1,0 +1,10 @@
+[project]
+name = "risklens-copilot"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "snowflake-connector-python>=3.3.0",
+    "streamlit>=1.54.0",
+    "requests>=2.28.0",
+    "pandas>=2.0.0",
+]
